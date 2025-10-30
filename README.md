@@ -1,16 +1,17 @@
-## Hi there 👋
+# Dr. Esma Birsen Boydas
 
-<!--
-**EBB2675/EBB2675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a quantum chemist with a PhD, specializing in **electronic structure theory** with a focus on **molecular reactivity, stability, and theoretical spectroscopy**.
+
+Currently, I work as a **Quantum Chemistry Expert and Research Software Engineer** at the [NOMAD Laboratory](https://nomad-lab.eu/) within the **FAIRmat** consortium, where I connect quantum chemistry with data infrastructure development.
+
+At NOMAD, I design and implement **Python-based data schemas, parsers, and FAIR workflows** that make quantum chemical simulations **machine-actionable and reusable**.  
+My work focuses on integrating **wave function-based methods** and their metadata structures to ensure seamless interoperability across computational simulation codes.
+
+Beyond that, I am deeply interested in the intersection of **quantum chemistry, quantum computing, and artificial intelligence**.  
+I have completed **QBronze** and **Quantum Machine Learning** workshops organized by **QPoland**, and I actively explore **RAG-based LLM applications** for materials science and chemistry to enhance knowledge discovery through intelligent assistants.
+
+---
