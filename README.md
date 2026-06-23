@@ -1,5 +1,7 @@
- [![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=EBB2675&theme=noir)](https://gitcity.natrajx.in/EBB2675)
-
+<a href="https://gitcity.natrajx.in/EBB2675">
+  <img src="https://gitcity.natrajx.in/api/svg?u=EBB2675&theme=noir"
+       alt="GitCity Noir Skyline" width="100%" />
+</a> 
 # Dr. Esma Birsen Boydas
 
 ---
