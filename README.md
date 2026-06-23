@@ -1,8 +1,3 @@
-<a href="https://gitcity.natrajx.in/EBB2675">
-  <img src="https://gitcity.natrajx.in/api/svg?u=EBB2675&theme=noir"
-       alt="GitCity Noir Skyline" width="100%" />
-</a> 
-
 # Dr. Esma Birsen Boydas
 
 ---
@@ -18,6 +13,11 @@ My work focuses on integrating wave function-based methods and their metadata st
 Beyond that, I am deeply interested in the intersection of quantum chemistry, quantum computing, and artificial intelligence.  
 I have completed QBronze and Quantum Machine Learning workshops organized by QPoland, and I actively explore RAG-based LLM applications for materials science and chemistry to enhance knowledge discovery through intelligent assistants.
 
+<a href="https://gitcity.natrajx.in/EBB2675">
+  <img src="https://gitcity.natrajx.in/api/svg?u=EBB2675&theme=noir"
+       alt="GitCity Noir Skyline" width="100%" />
+</a> 
+
 ## Active Projects 
 
 These are independent projects I develop and maintain in parallel to my professional work.
@@ -27,5 +27,7 @@ https://github.com/EBB2675/schema-studio
 
 **sanQCtuary** : Personal toolkit for active-space analysis and molecular modeling workflows.  
 https://github.com/EBB2675/sanQCtuary
+
+**schematerial** : A translation layer assistant between heterogeneous data models.
 
 ---
