@@ -14,7 +14,7 @@ Beyond that, I am deeply interested in the intersection of quantum chemistry, qu
 I have completed QBronze and Quantum Machine Learning workshops organized by QPoland, and I actively explore RAG-based LLM applications for materials science and chemistry to enhance knowledge discovery through intelligent assistants.
 
 <a href="https://gitcity.natrajx.in/EBB2675">
-  <img src="https://gitcity.natrajx.in/api/svg?u=EBB2675&theme=noir"
+  <img src="https://gitcity.natrajx.in/api/svg?u=EBB2675&theme=noir&v=2"
        alt="GitCity Noir Skyline" width="100%" />
 </a> 
 
