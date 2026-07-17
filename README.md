@@ -20,14 +20,16 @@ I have completed QBronze and Quantum Machine Learning workshops organized by QPo
 
 ## Active Projects 
 
+
+
 These are independent projects I develop and maintain in parallel to my professional work.
 
-**SchemaStudio** : Full-stack semantic data modeling environment for materials-science data.  
-https://github.com/EBB2675/schema-studio
+- **SchemaStudio**: Full-stack semantic data modeling environment for materials-science data.  
+  https://github.com/EBB2675/schema-studio
 
-**sanQCtuary** : Personal toolkit for active-space analysis and molecular modeling workflows.  
-https://github.com/EBB2675/sanQCtuary
+- **sanQCtuary**: Personal toolkit for active-space analysis and molecular modeling workflows.  
+  https://github.com/EBB2675/sanQCtuary
 
-**schematerial** : A translation layer assistant between heterogeneous data models.
-https://github.com/EBB2675/schematerial
+- **schematerial**: A translation-layer assistant for heterogeneous data models.  
+  https://github.com/EBB2675/schematerial
 ---
