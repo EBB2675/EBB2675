@@ -13,7 +13,9 @@ Currently working at Bundesanstalt für Materialforschung und -prüfung in Berli
 
 - **SchemaStudio**: Full-stack semantic data modeling environment for materials science.  
   https://github.com/EBB2675/schema-studio
-
+  
+  (Check out the test deployment here: https://ebb2675.github.io/schema-studio/)
+  
 - **schematerial**: A translation-layer assistant for heterogeneous data models.  
   https://github.com/EBB2675/schematerial
 ---
