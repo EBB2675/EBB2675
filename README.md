@@ -18,6 +18,10 @@ Currently working at Bundesanstalt für Materialforschung und -prüfung in Berli
   
 - **schematerial**: A translation-layer assistant for heterogeneous data models.  
   https://github.com/EBB2675/schematerial
+
+- **mermantics**: An ontology-aware semantic linter for Mermaid data-model diagrams.  
+<https://github.com/EBB2675/mermantics>
+
 ---
 
 
